@@ -1,5 +1,4 @@
-{
-  "departaments": [
+[
     { "id": 5, "departament": "Antioquia" },
     { "id": 8, "departament": "Atlántico" },
     { "id": 11, "departament": "Bogotá D.C." },
@@ -35,9 +34,7 @@
     { "id": 94, "departament": "Guainía" },
     { "id": 95, "departament": "Guaviare" },
     { "id": 97, "departament": "Vaupés" },
-    { "id": 99, "departament": "Vichada" }
-  ],
-    "cities": [
+    { "id": 99, "departament": "Vichada" },
       { "id": 5001, "city": "Medellín", "departmentId": 5 },
       { "id": 5002, "city": "Abejorral", "departmentId": 5 },
       { "id": 5004, "city": "Abriaquí", "departmentId": 5 },
@@ -1162,4 +1159,3 @@
       { "id": 99624, "city": "Santa Rosalía", "departmentId": 99 },
       { "id": 99773, "city": "Cumaribo", "departmentId": 99 }
     ]
-  }
