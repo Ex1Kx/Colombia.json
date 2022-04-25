@@ -27,10 +27,7 @@
     { "id": 81, "departament": "Arauca" },
     { "id": 85, "departament": "Casanare" },
     { "id": 86, "departament": "Putumayo" },
-    {
-      "id": 88,
-      "departament": "Archipiélago de San Andrés, Providencia y Santa Catalina"
-    },
+    { "id": 88, "departament": "Archipiélago de San Andrés, Providencia y Santa Catalina"},
     { "id": 91, "departament": "Amazonas" },
     { "id": 94, "departament": "Guainía" },
     { "id": 95, "departament": "Guaviare" },
